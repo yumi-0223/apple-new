@@ -7,13 +7,13 @@ export default function App() {
     return (
       <div>
         <div>
-          <header>Apple New Member</header>
+          <header>peach New Member</header>
         </div>
         <main>
           <h>
             <h1>
               <p>こんにちは。</p>
-              <p>日大テニスサークルです。</p>
+              <p>テニスサークルpeachです。</p>
               <p>我々は主に他の学校のサークルなどと試合の際出場するメンバーです。</p>
               <p>このサイトでは、女子レギュラーの概要を載せたものになります。</p>
               <p>活動場所は、左に記載してある日本大学文理学部の100周年記念館のテニスコートになります。</p>

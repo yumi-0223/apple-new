@@ -23,8 +23,8 @@ export default function App() {
           </h>
         </main>
         <div>
-          <footer>日本大学文理学部情報科学科 Webプログラミングの演習課題　5422048　葛畑友美
-                　<a href="https://developers.google.com/maps/?hl=ja">Google Maps API</a>を利用
+          <footer><p>日本大学文理学部情報科学科 Webプログラミングの演習課題　5422048　葛畑友美</p>
+                　<p><a href="https://developers.google.com/maps/?hl=ja">Google Maps API</a>を利用</p>
           </footer>
         </div>
       </div>

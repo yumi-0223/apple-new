@@ -36,3 +36,9 @@ img{
   width:300px;
 }
 
+footer{
+  color:white;
+  font-size: 1.0em;
+  position: fixed;
+  bottom: 0;
+}

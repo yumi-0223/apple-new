@@ -20,11 +20,11 @@ export default function App() {
               <p>週に3日3時間ほど練習をしています。</p>
               <p>興味を持っていただけましたら、<a href="https://forms.gle/ChnRMwGqM4bBY92a9">link</a>に連絡お願いします。</p>
             </h1>
-            <h2>
-              日本大学文理学部情報科学科Webプログラミング
-            </h2>
           </h>
         </main>
+        <div>
+          <footer>日本大学文理学部情報科学科 Webプログラミングの演習課題　5422048　葛畑友美</footer>
+        </div>
       </div>
     );
   }

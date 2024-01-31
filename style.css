@@ -16,31 +16,29 @@ header{
 
 
 body {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-    background-color:black;
-  }
-
-main{
-    font-size: 3px;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: black;
 }
 
-h{
-    text-align: right;
-    font-size: 1.8em;
-    color: white;
-  }
-
-#map{
-    top: 100px;
-    left:0;
-  width: 300px;
-  height: 300px;
+main {
+  font-size: 0.3em;
+  color: white;
+  margin-top: 20px;
 }
 
 img{
-   width:300px;
+  top: 20px;
+  width:300px;
+}
+
+#map {
+  width: 300px;
+  height: 250px;
+  position: relative;
+  top: 450px; 
 }
 
 
